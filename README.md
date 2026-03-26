@@ -110,7 +110,7 @@ The absence of the target sense from all Houaiss entries for *aplicar* constitut
 
 #### Annotation decisions for *apply*
 
-**Mark as `relevant`** when the comment describes submitting an application to a job posting, trainee program, internship, or formal selection process such as an university programme, regardless of which verb is used (*apliquei*, *me candidatei*, *me inscrevi*). The criterion is functional: the action described, not the lexical choice.
+**Mark as `relevant`** when the comment describes submitting an application to a job posting, trainee program, internship, or formal selection process such as an university programme, regardless of which verb is used (*apliquei*, *me candidatei*, *me inscrevi*). The criterion is functional: the action described should be aligned to that of *candidatar-se*.
 
 Examples of relevant contexts: mention of *vaga*, *processo seletivo*, *entrevista*, *empresa*, *LinkedIn*, *currículo*, *recrutamento*, *júnior/pleno/sênior*, *job*.
 
