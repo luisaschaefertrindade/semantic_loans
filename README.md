@@ -119,7 +119,7 @@ Examples of relevant contexts: mention of *vaga*, *processo seletivo*, *entrevis
 - *aplicar* is used in any Houaiss-attested sense: applying a formula, patch, fine, injection, investment, method, or physical force (*apliquei a fórmula*, *aplicou o patch*, *aplicou uma multa*)
 - *candidatar-se* refers to political candidacy (*candidatou-se a vereador*, *candidatura ao governo*)
 - *inscrever-se* refers to subscribing to a YouTube channel, newsletter, or online community (*se inscreva no canal*, *me inscrevi no sub*) — this reflects the English *subscribe*, not *apply*
-- The comment is about exam enrollment
+- The comment mentions exam enrollment, enrollment without a selection process (e.g. English course), or visa application (in Portuguese this would be *solicitar*, native equivalent not included in this study)
 
 **Mark as `ambiguous`** when the verb appears without sufficient context to determine whether a job application or another sense is intended.
 
