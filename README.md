@@ -110,7 +110,7 @@ The absence of the target sense from all Houaiss entries for *aplicar* constitut
 
 #### Annotation decisions for *apply*
 
-**Mark as `relevant`** when the comment describes submitting an application to a job posting, trainee program, internship, or formal selection process, regardless of which verb is used (*apliquei*, *me candidatei*, *me inscrevi*). The criterion is functional: the action described, not the lexical choice.
+**Mark as `relevant`** when the comment describes submitting an application to a job posting, trainee program, internship, or formal selection process such as an university programme, regardless of which verb is used (*apliquei*, *me candidatei*, *me inscrevi*). The criterion is functional: the action described, not the lexical choice.
 
 Examples of relevant contexts: mention of *vaga*, *processo seletivo*, *entrevista*, *empresa*, *LinkedIn*, *currículo*, *recrutamento*, *júnior/pleno/sênior*, *job*.
 
@@ -119,7 +119,7 @@ Examples of relevant contexts: mention of *vaga*, *processo seletivo*, *entrevis
 - *aplicar* is used in any Houaiss-attested sense: applying a formula, patch, fine, injection, investment, method, or physical force (*apliquei a fórmula*, *aplicou o patch*, *aplicou uma multa*)
 - *candidatar-se* refers to political candidacy (*candidatou-se a vereador*, *candidatura ao governo*)
 - *inscrever-se* refers to subscribing to a YouTube channel, newsletter, or online community (*se inscreva no canal*, *me inscrevi no sub*) — this reflects the English *subscribe*, not *apply*
-- The comment is about academic or exam enrollment
+- The comment is about exam enrollment
 
 **Mark as `ambiguous`** when the verb appears without sufficient context to determine whether a job application or another sense is intended.
 
