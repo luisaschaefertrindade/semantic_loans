@@ -24,6 +24,7 @@ The central hypothesis is that high-volume translation — particularly machine 
 | *address* (a matter) | *endereçar* | *abordar*, *tratar* | Existing BP meaning: to put an address in, to send (a communication), to speak with|
 | *massive* | *massivo* | *enorme*, *imenso*, *gigantesco* | Shift in frequency and register |
 | *nominee* | *nomeado* | *indicado* | Existing BP meaning: to be called by, to be assigned to (a position) |
+| *have an argument* | *ter um argumento* | *brigar*, *discutir* | Existing BP meaning: to argue |
 
 ---
 
@@ -83,7 +84,7 @@ Each data point is a Reddit comment containing at least one query term. Manual a
 | `ambiguous` | Context is insufficient to determine the sense |
 | `excluded` | Duplicate, bot content, or unintelligible text |
 
-Annotation is performed on the `body` field. The `permalink` field links to the original Reddit thread for cases where surrounding context is needed.
+Annotation is performed taking the `body` field into account. The `permalink` field links to the original Reddit thread for cases where surrounding context is needed.
 
 ---
 
@@ -127,15 +128,18 @@ Examples of relevant contexts: mention of *vaga*, *processo seletivo*, *entrevis
 
 ---
 
-## Status
+## Results
 
-- [x] Data collection scripts (Arctic Shift API, TMX corpora)
-- [x] Colab notebook for pre-filtering and diachronic analysis
-- [x] Raw data collected for *apply* (multiple date ranges)
-- [ ] Manual curation in progress (*apply*)
-- [ ] Data collection for remaining terms
-- [ ] Diachronic analysis and visualization
-- [ ] Write-up
+### *apply* analysis
+
+It was observed that the proportional usage of each term (*aplicar*, *inscrever* and *candidatar*) varies along the studied period.
+
+<img width="1389" height="495" alt="image" src="https://github.com/user-attachments/assets/57344b8e-65d6-4ffc-9cda-249314700b23" />
+
+It is interesting to note the differences among each studied community. Though far from homogenous, each shows preferences for lexical choices that could reflect the group's composition: r/BrasildoB tends to address political and philosophical topics, and its members tend to prefer the canonical native options to refer to job applications; r/brdev, on the other hand, tends to discuss topics related to programming, a vast field that has many job opportunities abroad (heavily mentioned in the collected data), and this could explain the higher incidence of semantic loan for this particular verb; moreover, the subreddit r/desabafos tends to discuss many life-related topics and is by far the most heterogeneous community, showing a more even proportion.
+
+<img width="889" height="490" alt="image" src="https://github.com/user-attachments/assets/2047f117-61c6-4461-b46f-ed1ec63cef70" />
+
 
 ---
 
